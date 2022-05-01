@@ -1,6 +1,6 @@
 ## Olá!
 
-- Trabalhando com PHP, JS, Sass e React.js/Next.js. 
+- Trabalhando com PHP, JS, Sass e React.js. 
 - Estudando React e Elixir.
 
 <div align="center" style="display: flex;">
